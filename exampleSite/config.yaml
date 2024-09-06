@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "A title, man"
+title: "Robert W. Link"
 theme: hugo-profile
 
 outputs:
@@ -181,13 +181,35 @@ params:
       - job: "Scientist II, Computational Biology"
         company: "Metaphore Biotechnologies"
         companyUrl: "https://metaphorebio.com/"
-        date: "Aug 2022 - present"
+        date: "Aug 2023 - present"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |
           I am currently working as Computational Biologist at Metaphore Biotechnologies
+
+          - X
+          - Y
+      - job: "Scientist I, Computational Biology"
+        company: "Metaphore Biotechnologies"
+        companyUrl: "https://metaphorebio.com/"
+        date: "Aug 2022 - Aug 2023"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: "Test to see how this handles promotions"
+      - job: "Postdoctoral Fellow"
+        company: "Drexel University College of Medicine"
+        companyUrl: "https://drexel.edu/medicine/"
+        date: "Oct 2021 - July 2022"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |
+          I did some stuff.
 
           - X
           - Y
@@ -222,9 +244,20 @@ params:
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
+        school:
+          name: "University of Leeds"
+          url: "https://www.leeds.ac.uk/"
+        date: "Spring 2025"
+        content: Study abroad program
+        featuredLink:
+          enable: false
+          name: "My academic record"
+          url: "https://example.com"
+          
+      
 
   # Achievements
   achievements:
