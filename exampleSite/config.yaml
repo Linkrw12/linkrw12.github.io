@@ -200,10 +200,11 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-          I did some stuff.
-
-          - X
-          - Y
+          PIs: [Will Dampier](https://drexel.edu/medicine/faculty/profiles/will-dampier/) and [Brian Wigdahl](https://drexel.edu/medicine/faculty/profiles/brian-wigdahl/)
+          
+          I authored two papers - one first author.
+          - [HIV-Quasipore: A Suite of HIV-1-Specific Nanopore Basecallers Designed to Enhance Viral Quasispecies Detection](https://www.frontiersin.org/journals/virology/articles/10.3389/fviro.2022.880618/full)
+          - [HIV-Bidirectional Encoder Representations from Transformers (BERT): a set of pretrained transformers for accelerating HIV deep learning tasks](https://www.frontiersin.org/journals/virology/articles/10.3389/fviro.2022.880618/full)
 
   # Education
   education:
@@ -218,20 +219,23 @@ params:
         date: "2016 - 2021"
         content: |
           Thesis: Impact of HIV-1 genetic variation on Tat-RNA binding, anti-HIV-1 gRNA design, and HIV-associated neurocognitive impairment
-          PIs: [Will Dampier](https://scholar.google.com/citations?user=uKnQTLQAAAAJ) and [Brian Wigdahl](https://scholar.google.com/citations?user=GcBJEMYAAAAJ&hl=en)
+          
+          PIs: [Will Dampier](https://drexel.edu/medicine/faculty/profiles/will-dampier/) and [Brian Wigdahl](https://drexel.edu/medicine/faculty/profiles/brian-wigdahl/)
           
           I authored three papers - two first author.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com) (Jan 2016 | First author)
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com) (Jan 2016)
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com) (Jan 2016)
+          - [Computational Design of gRNAs Targeting Genetic Variants Across HIV-1 Subtypes for CRISPR-Mediated Antiviral Therapy](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.593077/full)
+          - [Investigating the distribution of HIV-1 Tat lengths present in the Drexel Medicine CARES cohort](https://www.sciencedirect.com/science/article/abs/pii/S0168170219301911)
+          - [Prediction of Human Immunodeficiency Virus Type 1 Subtype-Specific Off-Target Effects Arising from CRISPR-Cas9 Gene Editing Therapy](https://www.liebertpub.com/doi/abs/10.1089/crispr.2018.0020?journalCode=crispr)
 
       - title: "Bachelor of Science, Biochemistry (Minor in Philosophy)"
         school:
           name: "Juniata College"
           url: "https://www.juniata.edu/"
         date: "2012 - 2016"
-        content: |-
-          Yes
+        content: |
+          PI: [Regina Lamendella](https://www.juniata.edu/academics/provost/bio.php?id=LAMENDELLA)
+
+          Clarified interactions between bacterial community structures in the neonatal gut microbiome to investigate a possible etiology for necrotizing enterocolitis (NEC). This was accomplished by generating bacterial co-occurrence networks by analyzing 16S rRNA sequencing data from more than 300 preterm infants.
 
           Extracurricular Activities
             - Student Government Treasurer for the Class of 2016
@@ -258,16 +262,18 @@ params:
     # title: "Custom Name"
     items:
       - title: Grant award winner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
+        content: | 
+            Date: X
+            
+            Developed a product using Artificial Intelligence.        
+        # url: https://example.com
+        # image: /images/achievment.jpg
       - title: Poster presentation guy
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      # - title: Hugo Profile
-      #   content: Developed a theme and getting 1K+ downloads per month.
-      #   url: "https://github.com/gurusabarish/hugo-profile"
-      #   image: /images/achievment.jpg
+        content: | 
+            Date: X
+            
+            Developed a product using Artificial Intelligence.
+        # image: /images/achievment.jpg
       
   # projects
   projects:
