@@ -181,7 +181,7 @@ params:
       - job: "Scientist II, Computational Biology"
         company: "Metaphore Biotechnologies"
         companyUrl: "https://metaphorebio.com/"
-        date: "Aug 2023 - present"
+        date: "Aug 2022 - present"
         featuredLink:
           enable: false
           name: "View the project"
