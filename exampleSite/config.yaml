@@ -129,7 +129,7 @@ params:
     title: "Robert W. Link"
     subtitle: "Protein engineer and deep learning specialist"
     # content: "I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/cropped.png
+    image: /images/Robert_Link_Photo.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
