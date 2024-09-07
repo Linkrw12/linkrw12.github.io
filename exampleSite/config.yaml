@@ -135,7 +135,7 @@ params:
     # content: "I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/Robert_Link_Photo.jpg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     button:
       enable: false
