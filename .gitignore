@@ -3,6 +3,9 @@
 /static/images
 .vscode
 
+# ipynb checkpoints
+.ipynb_checkpoints/
+
 ### Hugo ###
 # Generated files by hugo
 /public/
