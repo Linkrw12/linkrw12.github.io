@@ -129,8 +129,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Robert W. Link"
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "Protein engineer and deep learning specialist"
+    # content: "I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/Robert_Link_Photo.jpg
     bottomImage:
       enable: true
@@ -166,13 +166,12 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
-
+        - "PyTorch"
+        - "Hugging Face transformers"
+        - "AWS cloud computing"
+        - "Transfer learning"
+        - "Protein-specific LLM fine-tuning"
+        
   # Experience
   experience:
     enable: true
@@ -218,11 +217,11 @@ params:
           url: "https://drexel.edu/biomed/"
         date: "2016 - 2021"
         content: |
-          Thesis: Impact of HIV-1 genetic variation on Tat-RNA binding, anti-HIV-1 gRNA design, and HIV-associated neurocognitive impairment
-          
           PIs: [Will Dampier](https://drexel.edu/medicine/faculty/profiles/will-dampier/) and [Brian Wigdahl](https://drexel.edu/medicine/faculty/profiles/brian-wigdahl/)
           
-          I authored three papers - two first author.
+          Thesis: Impact of HIV-1 genetic variation on Tat-RNA binding, anti-HIV-1 gRNA design, and HIV-associated neurocognitive impairment
+          
+          I published three papers - two first author.
           - [Computational Design of gRNAs Targeting Genetic Variants Across HIV-1 Subtypes for CRISPR-Mediated Antiviral Therapy](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.593077/full)
           - [Investigating the distribution of HIV-1 Tat lengths present in the Drexel Medicine CARES cohort](https://www.sciencedirect.com/science/article/abs/pii/S0168170219301911)
           - [Prediction of Human Immunodeficiency Virus Type 1 Subtype-Specific Off-Target Effects Arising from CRISPR-Cas9 Gene Editing Therapy](https://www.liebertpub.com/doi/abs/10.1089/crispr.2018.0020?journalCode=crispr)
@@ -262,17 +261,8 @@ params:
     # title: "Custom Name"
     items:
       - title: National Research Service Award Pre-doctoral Fellow (T32-MH079785)
-        # content: | 
-        #     Date: X
-            
-        #     Developed a product using Artificial Intelligence.        
-        # url: https://example.com
         image: /images/NIMH_logo.jpg
       - title: 26th Philadelphia Forum on Infection & Immunity Poster Award
-        content: | 
-
-            Developed a product using Artificial Intelligence.
-        # image: /images/achievment.jpg
       
   # projects
   projects:
@@ -288,10 +278,8 @@ params:
         badges:
           - "PyTorch"
           - "Hugging Face"
-          - "Transformers"
+          - "Topic Modeling"
         links:
-        #   - icon: fa fa-envelope
-        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
             url: https://github.com/Linkrw12/pubmed-abstract-classifier-topic-refinement-and-modeling
         #   - icon: fab fa-twitter
@@ -305,7 +293,7 @@ params:
         #   link: https://django-converter.herokuapp.com
         badges:
           - "PyTorch"
-          - "X"
+          - "Protein engineering"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
