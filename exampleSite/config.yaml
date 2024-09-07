@@ -268,15 +268,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: PubMed Abstract Classifier Topic Refinement And Modeling
-        content: Stremlit app designed to query pubmed and (eventually) perform topic modeling.
+      - title: PubMed Abstract Classifier, Topic Refinement, And Modeling
+        content: Stremlit app designed to enhance domain-specific literature research
         image: /images/projects/profile.png
         # featured:
         #   enable: false
         #   name: GitHub
         #   link: https://github.com/Linkrw12/pubmed-abstract-classifier-topic-refinement-and-modeling
         badges:
-          - "PyTorch"
           - "Hugging Face"
           - "Topic Modeling"
           - "Streamlit"
@@ -292,7 +291,8 @@ params:
         #   link: https://django-converter.herokuapp.com
         badges:
           - "PyTorch"
-          - "Protein engineering"
+          - "Peptide design"
+          - "Inverse folding"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
