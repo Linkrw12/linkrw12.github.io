@@ -273,18 +273,18 @@ params:
       - title: PubMed Abstract Classifier Topic Refinement And Modeling
         content: Stremlit app designed to query pubmed and (eventually) perform topic modeling.
         image: /images/projects/profile.png
-        # featured:
-        #   name: GitHub
-        #   link: https://github.com/Linkrw12/pubmed-abstract-classifier-topic-refinement-and-modeling
+        featured:
+          enable: false
+          name: GitHub
+          link: https://github.com/Linkrw12/pubmed-abstract-classifier-topic-refinement-and-modeling
         badges:
           - "PyTorch"
           - "Hugging Face"
           - "Topic Modeling"
+          - "Streamlit"
         links:
           - icon: fab fa-github
             url: https://github.com/Linkrw12/pubmed-abstract-classifier-topic-refinement-and-modeling
-        #   - icon: fab fa-twitter
-        #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: pINSR
         content: pINSR coming
