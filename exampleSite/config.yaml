@@ -167,10 +167,10 @@ params:
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "PyTorch"
-        - "Hugging Face transformers"
         - "AWS cloud computing"
-        - "Transfer learning"
+        - "Hugging Face transformers"
         - "Protein-specific LLM fine-tuning"
+        - "Transfer learning"
         
   # Experience
   experience:
