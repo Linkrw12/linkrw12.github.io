@@ -161,7 +161,7 @@ params:
     title: "About Me"
     image: "/images/cropped.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a computational biologist at [Metaphore Biotechnologies](https://metaphorebio.com/) in Cambridge, MA.
+      I am a passionate scientist with 6+ years of experience leveraging machine and deep learning methods to develop creative and pragmatic solutions within a variety of contexts, including protein engineering and company platform development. Given my background, I believe that I am in a unique position to contribute to the entire data generation pipeline – from collaborating with benchside scientists to inform experimental design to noise filtering to practical modeling applications. I am currently working as a computational biologist at [Metaphore Biotechnologies](https://metaphorebio.com/) in Cambridge, MA.
       
     skills:
       enable: true
@@ -189,8 +189,9 @@ params:
         content: |
           I am currently working as Computational Biologist at Metaphore Biotechnologies
 
-          - X
-          - Y
+          - Generated high-quality protein-ligand binding affinity training data and advanced company platform development by developing scalable deep mutational scanning variant fitness pipeline
+          - Leveraged AWS cloud computing for scalable ML training pipeline for developability prediction
+          - Informed benchside experimental design to guide therapeutic candidate affinity maturation campaigns
       - job: "Postdoctoral Fellow"
         company: "Drexel University College of Medicine"
         companyUrl: "https://drexel.edu/medicine/"
@@ -253,8 +254,6 @@ params:
           enable: false
           name: "My academic record"
           url: "https://example.com"
-          
-      
 
   # Achievements
   achievements:
